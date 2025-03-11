@@ -1,4 +1,4 @@
-book-collection-api
+# book-collection-api
 
 book-collection-api is a simple REST API project built using FastAPI to manage reading lists. It allows you to track, organise and write reviews/notes about books that you've read, as well as gain insights into your reading list.
 
